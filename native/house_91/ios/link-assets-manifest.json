@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Britannic-Bold.ttf",
+      "sha1": "128b8f01f5f2438078f76f1299efd1fcd1f92d94"
+    },
+    {
+      "path": "assets/fonts/Britannic-regular.ttf",
+      "sha1": "67a71aa9aacd63773d662237160b1ccb6b7f6634"
+    },
+    {
+      "path": "assets/fonts/Britannic-t-regular.ttf",
+      "sha1": "8fcda5d379519f464140fc1835e0febc8a50d60b"
+    }
+  ]
+}
